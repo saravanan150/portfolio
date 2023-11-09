@@ -1,4 +1,4 @@
-# Portfolio V1.2 👩🏽‍🚀
+# Portfolio 
 
 Portfolio is a modern and customizable personal portfolio web template built using the popular React library. It provides an easy way for developers, designers, and creatives to showcase their work, skills, and achievements in a professiona and visually appealing way. With its responsive design and clean code, Reactfolio can be easily tailored to suit individual needs and preferences, making it an ideal choice for anyone looking to create a stunning online portfolio.
 
@@ -14,7 +14,7 @@ Portfolio is a modern and customizable personal portfolio web template built usi
 -   [FAQ](#-faq)
 -   [Contribution](#-contribution)
 
-## 📙 Features
+## Features
 
 -   📖 Multi-Page Layout
     -   Home
@@ -25,11 +25,11 @@ Portfolio is a modern and customizable personal portfolio web template built usi
 -   📱 Fully Responsive
 -   🛠 Easy configurations
 
-## 📚 Getting started
+##  Getting started
 
 Clone down this repository. You will need `NodeJS` and `git` installed globally on your machine.
 
-## 🛠 Installation and Setup Instructions
+## Installation and Setup Instructions
 
 1. Installation: `npm install`
 
@@ -39,7 +39,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
-## 📁 Folder structure
+## Folder structure
 
 -   `/public`: publicly accessible contents (ex: images, media).
 -   `/src`: all the components used in this project.
